@@ -1,0 +1,7 @@
+{
+  "name": "Umoder",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
